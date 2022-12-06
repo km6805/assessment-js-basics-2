@@ -103,9 +103,9 @@ calcFinalPrice()
     guidelines.
 */
 const customer = {
-    numberOfPeople: 6
-    nameOfCustomer: 'Kirk'
-    drinkChoice: 'red wine'
+    numberOfPeople: 6,
+    nameOfCustomer: 'Kirk',
+    drinkChoice: 'red wine',
     foodChoice: 'ice cream'
 }
 console.log(customer)
